@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Burp Scanner<br>👯 I’m looking to collaborate on warp<br>🌱 I’m currently learning JavaScript<br>⚡ Happy Man
+🔭 I’m currently working on Python Burp Scanner<br>👯 I’m looking to collaborate on warp<br>🌱 I’m currently learning JavaScript<br>🙂 Happy Man
 
 
 ## 🌐 Socials:
